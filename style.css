@@ -1,0 +1,10 @@
+body {
+  background-image: url(./img/360_F_588685904_GV8YCwcUm8wCFW4cY1HYsCqTdbV3bRVq.jpg);
+  justify-content: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100vh;
+  background-color: grey;
+  background-size: cover;
+  align-content: center;
+}
